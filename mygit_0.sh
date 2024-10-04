@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 
-#
 
 # pwd : postg  =      R=D7,Z)$F%q,Kj?CP,DM{1CFNTtQ1B@4=V!d
 
