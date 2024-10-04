@@ -1,0 +1,26 @@
+{
+  "extends": ["next/core-web-vitals"],
+  "parser": "@babel/eslint-parser",
+  "parserOptions": {
+    "sourceType": "module",
+    "allowImportExportEveryWhere": false,
+    "ecmaFeatures": {
+      "globalReturn": false,
+      "jsx": true
+    },
+    "ecmaVersion": 2020,
+    "babelOptions": {
+      "configFile": "./.babelrc",
+      "presets": [
+        "@babel/preset-react"
+      ],
+      "parserOpts": {
+        "plugins": ["jsx","typescript"]
+      }
+    }
+  },
+  "rules": {
+    "react/no-unescaped-entities": "off",
+    "@next/next/no-page-custom-font": "off"
+  }
+}
