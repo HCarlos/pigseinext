@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# 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
+#
 
 # pwd : postg  =      R=D7,Z)$F%q,Kj?CP,DM{1CFNTtQ1B@4=V!d
 
